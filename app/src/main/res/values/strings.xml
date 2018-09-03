@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recommend Places</string>
+    <string name="enter_source">Enter Source:</string>
+    <string name="enter_destination">Enter Destination</string>
+    <string name="i_m_looking_for">I\'m looking for:</string>
+    <string name="title_activity_place_details">Map</string>
+    <string name="title_activity_journey_plan">Map</string>
+    <string name="title_activity_time">Time</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="cab_booking">Cab Booking</string>
+    <string name="hotel_booking">Hotel Booking</string>
+    <string name="email">PLEASE ENTER A VALID EMAIL!!!</string>
+    <string name="pass">PLEASE ENTER A VALID PASSWORD!!!!</string>
+    <string name="Name">Please enter a valid name</string>
+    <string name="Phone">PLEASE ENTER A VALID PHONE</string>
+    <string name="title_activity_faltu">Faltu</string>
+</resources>

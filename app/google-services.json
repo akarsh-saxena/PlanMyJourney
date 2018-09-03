@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545377113267",
+    "firebase_url": "https://recommendplaces-bd7df.firebaseio.com",
+    "project_id": "recommendplaces-bd7df",
+    "storage_bucket": "recommendplaces-bd7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545377113267:android:533dc7d3d54b2af9",
+        "android_client_info": {
+          "package_name": "com.application.recommend.recommendplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545377113267-scocf3fjtkveh604f819i7p4binkv9oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.recommend.recommendplaces",
+            "certificate_hash": "4d195e74a60a2fcc5ce3b0367f636de320638b28"
+          }
+        },
+        {
+          "client_id": "545377113267-u49d3i0k77v1fith9pknnoalj1rfs5fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGn_tCChYX_OGfOi0GLV3DjZpHy2i9EJc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545377113267-u49d3i0k77v1fith9pknnoalj1rfs5fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
